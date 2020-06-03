@@ -4,6 +4,6 @@ class Dog
   end
 
   def sit
-    pus "The Dog is sitting"
+    puts "The Dog is sitting"
   end
-en
+end
